@@ -1,3 +1,11 @@
 === Log started at: Mon Dec 01 20:22:33 2025
 === Log ended.
 
+=== Log started at: Mon Dec 01 21:09:02 2025
+=== Log ended.
+
+=== Log started at: Mon Dec 01 21:13:05 2025
+[KILL] vit (Druid) killed nasty (Druid)
+[KILL] nasty (Druid) killed vit (Druid)
+=== Log ended.
+

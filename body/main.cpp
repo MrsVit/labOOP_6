@@ -27,8 +27,8 @@ int main() {
                     int x, y;
                     std::cout << "Type (Knight/Druid/Elf): "; std::cin >> type;
                     std::cout << "Name: "; std::cin >> name;
-                    std::cout << "x (0–500): "; std::cin >> x;
-                    std::cout << "y (0–500): "; std::cin >> y;
+                    std::cout << "x (0-500): "; std::cin >> x;
+                    std::cout << "y (0-500): "; std::cin >> y;
                     dungeon.addNPC(type, name, x, y);
                     std::cout << " Added.\n";
                     break;
